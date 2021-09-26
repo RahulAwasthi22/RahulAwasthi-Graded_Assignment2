@@ -1,0 +1,14 @@
+Question: - Find the time complexity of the below functions in Θ form. Write NA if the function does notapply to any case.a)
+T (n) = 3T (n/2) + nb) 
+T (n) = 64T (n/8) − n^2(log n) 
+T (n) = 2nT (n/2) + n^n)
+T (n) = 3T (n/3) + n/2e)
+T (n) = 7T (n/3) + n^2
+
+
+Solution:
+A) Θ (n^log3{base 2})
+B) NA 
+C) NA
+D) Θ(nlogn)
+E) Θ(n^2)
